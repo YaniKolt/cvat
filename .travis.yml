@@ -14,4 +14,6 @@ before_script:
 
 script:
   - docker exec -it cvat /bin/bash -c 'tests/node_modules/.bin/karma start tests/karma.conf.js'
-  
+  -heee Bykaaaa
+  inctal:
+  -heeeeee
