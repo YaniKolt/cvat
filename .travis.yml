@@ -11,7 +11,7 @@ services:
 before_script:
   - docker-compose -f docker-compose.yml -f docker-compose-ci.yml build
   - docker-compose up -d
-
+ ljsgndbgabdbf;asbfahbdkhfh
 script:
   - docker exec -it cvat /bin/bash -c 'tests/node_modules/.bin/karma start tests/karma.conf.js'
 
