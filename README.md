@@ -8,7 +8,7 @@ CVAT is completely re-designed and re-implemented version of [Video Annotation T
 
 ![CVAT screenshot](cvat/apps/documentation/static/documentation/images/cvat.jpg)
 
-## Documentation
+## Documentation sijfgujdsuohg
 
 - [User's guide](cvat/apps/documentation/user_guide.md)
 - [XML annotation format](cvat/apps/documentation/xml_format.md)
